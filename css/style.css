@@ -1,0 +1,99 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+.nav-text{
+  font-family:copperplate;
+  font-size:150%;
+  padding:10px;
+  background-color:#CEE3F6;
+}
+.nav-items{
+  font-size:110%;
+  font-family:copperplate;
+  font-color:#000000;
+  
+}
+.nav-container{
+  background-color:#81BEF7
+}
+.home{
+ padding-top:150px;
+  padding-bottom:150px;
+  background-image:url("http://www.computermasteronline.com/wp-content/uploads/2010/04/computer-technology-business-website-header.jpg");
+}
+.home-header{
+  color:#ffffff;
+  font-size:600%;
+}
+.home-sub-header{
+  color:#ffffff;
+  font-size:300%;
+}
+.contact-link{
+  padding:10px;
+  font-size:120%;
+  margin:15px;
+}
+.btn-twitter {
+    background: #00acee;
+    border-radius: 0;
+    color: #fff
+}
+.btn-twitter:link, .btn-twitter:visited {
+    color: #fff
+}
+.btn-twitter:active, .btn-twitter:hover {
+    background: #0087bd;
+    color: #fff
+}
+.btn-facebook {
+    background: #3b5998;
+    border-radius: 0;
+    color: #fff
+}
+.btn-facebook:link, .btn-facebook:visited {
+    color: #fff
+}
+.btn-facebook:active, .btn-facebook:hover {
+    background: #30477a;
+    color: #fff
+}
+.btn-googleplus {
+    background: #e93f2e;
+    border-radius: 0;
+    color: #fff
+}
+.btn-googleplus:link, .btn-googleplus:visited {
+    color: #fff
+}
+.btn-googleplus:active, .btn-googleplus:hover {
+    background: #ba3225;
+    color: #fff
+}
+.btn-linkedin {
+    background: #0e76a8;
+    border-radius: 0;
+    color: #fff
+}
+.btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff
+}
+.btn-linkedin:active, .btn-linkedin:hover {
+    background: #0b6087;
+    color: #fff
+}
+.about-container{
+  
+  background-image:url("http://i47.tinypic.com/3465a52.png");
+  
+    padding-top:100px;
+  padding-bottom:150px;
+}
+.portifolio-container{
+  
+  background-image:url("http://www.dream-wallpaper.com/free-wallpaper/art-wallpaper/blue-theme-1-wallpaper/1680x1050/free-wallpaper-4.jpg");
+  
+    padding-top:50px;
+  padding-bottom:50px;
+}
